@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<Module>
+        <ModulePrefs title="Winthrop Weather" />
+        <Content type="html"><![CDATA[
+          <script type="text/javascript" src="https://voap.weather.com/weather/oap/04364?template=GENXH&par=3000000007&unit=0&key=twciweatherwidget"></script>
+        ]]></Content>
+</Module>
